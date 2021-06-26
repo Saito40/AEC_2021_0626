@@ -1,7 +1,6 @@
 {
   "name": "step3",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "build": "rollup -c",
@@ -16,5 +15,6 @@
   },
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^13.0.0"
-  }
+  },
+  "description": ""
 }
